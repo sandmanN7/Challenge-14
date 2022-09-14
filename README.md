@@ -12,7 +12,7 @@ This is the gender breakdown of the total number of rides recorded in August. Ro
 ![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/August%20Peak%20Hours.png)
 This shows the number of bikes being used at each hour per day. Number of bikes being used rises at 5am, rises until 8am, then declines until 10am. After 10am, the number gradually rises until 5pm, from which it steadily declines again consistently.
 
-![This is an image](
+![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/User%20Trips%20by%20Weekday%20per%20Hour.png)
 Shows most popular usage times with an emphasis on weekdays. Most popular times are 6am-10am and 4pm-8pm on weekdays
 
 ![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/Gender%20Trips%20by%20Day%20(Hour).png)
