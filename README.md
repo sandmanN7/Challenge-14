@@ -7,6 +7,7 @@ The objective of this project is to show a variety of data regarding the users o
 
 
 ![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/Gender%20Breakdown.png)
+
 This is the gender breakdown of the total number of rides recorded in August. Roughly two-thirds of riders are male, one-fourth are female, and the rest are unknown, but likely breakdown similarly. 
 
 ![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/August%20Peak%20Hours.png)
