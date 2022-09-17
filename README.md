@@ -11,7 +11,7 @@ The objective of this project is to show a variety of data regarding the users o
 This shows how long a users will use a bike. Most bike trips tend to be under an hour.
 
 ![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/Gender%20Checkout%20Times.png)
-This shows the breakdown of checkout times by gender. Both men and women tend to use bikes under an hour, though men tend to use them slightly longer than women.
+This shows the breakdown of checkout times by gender. Both male and female users tend to use bikes under an hour, though males tend to use them slightly longer than females.
 
 
 ![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/Gender%20Breakdown.png)
@@ -31,3 +31,4 @@ This shows the most popular usage time by gender. While there are different shad
 This breaks down the usage by gender and type of user. Both male and female subscribers tend to have a higher number of bike uses than do the customers of each respective gender. Subscribers tend to use bike-sharing more during the week while customers are more likely to make trips during the weekends, though there are still more uses from subscribes during weekends as well.
 
 ## Summary
+Overall, while the majority users are male, both males and females tend to use bike-sharing around the same approximate times, namely during largely "rush hour" times of 6am-10am and 4pm-8pm on weekdays, with peak usage being in between these ranges and with trips being under an hour. Two recommended future visualizations that would be recommended are one that includes the number of users and weather, and one that includes the average distance per trip. In this way, one could have a better estimation of the effect of weather and how far users are willing to bike.
