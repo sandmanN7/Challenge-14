@@ -5,6 +5,12 @@ The objective of this project is to show a variety of data regarding the users o
 
 ## Results
 
+![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/User%20Checkout%20Times.png)
+
+
+![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/Gender%20Checkout%20Times.png)
+
+
 
 ![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/Gender%20Breakdown.png)
 
