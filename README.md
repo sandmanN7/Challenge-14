@@ -1,15 +1,17 @@
 # Challenge-14 Bike-Sharing Analysis
 
+[link to dashboard](https://public.tableau.com/app/profile/alexander.ramos3311/viz/Challenge-14/Summary?publish=yes)
+
 ## Objective
 The objective of this project is to show a variety of data regarding the users of the bike-sharing app, including most common times of use for the bikes, the gender and customer type breakdown and the usage by day, in order to help convince other cities that bike-sharing can work there as well.
 
 ## Results
 
 ![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/User%20Checkout%20Times.png)
-
+This shows how long a users will use a bike. Most bike trips tend to be under an hour.
 
 ![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/Gender%20Checkout%20Times.png)
-
+This shows the breakdown of checkout times by gender. Both men and women tend to use bikes under an hour, though men tend to use them slightly longer than women.
 
 
 ![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/Gender%20Breakdown.png)
