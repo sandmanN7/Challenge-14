@@ -15,9 +15,9 @@ This shows how long a users will use a bike. Most bike trips tend to be under an
 This shows the breakdown of checkout times by gender. Both male and female users tend to use bikes under an hour, though males tend to use them slightly longer than females.
 
 
-![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/Gender%20Breakdown.png)
+![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/Trips%20Breakdown.png)
 
-This is the gender breakdown of the total number of rides recorded in August. Roughly two-thirds of riders are male, one-fourth are female, and the rest are unknown, but likely breakdown similarly. 
+This is the gender breakdown of the total number of trips recorded in August. Roughly two-thirds of riders are male, one-fourth are female, and the rest are unknown, but likely breakdown similarly. 
 
 ![This is an image](https://github.com/sandmanN7/Challenge-14/blob/main/Images/August%20Peak%20Hours.png)
 This shows the number of bikes being used at each hour per day. Number of bikes being used rises at 5am, rises until 8am, then declines until 10am. After 10am, the number gradually rises until 5pm, from which it steadily declines again consistently.
